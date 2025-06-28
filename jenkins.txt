@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 this is beeresh and im from bijapur
+=======
+hi this danesh kabade im from bijapur
+
+>>>>>>> Stashed changes
